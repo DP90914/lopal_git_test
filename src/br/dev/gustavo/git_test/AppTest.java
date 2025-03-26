@@ -6,6 +6,9 @@ public class AppTest {
 		System.out.println("Olá mundo!");
 		System.out.println("senai jandira");
 		System.out.println("turma ds1t-a");
+		System.out.println("turma ds1t-a");
+		System.out.println("turma ds1t-a");
+		System.out.println("turma ds1t-a");
 	}
 
 }
